@@ -8,5 +8,7 @@
 ! Compiled by @lleitaovmw
 !
 ||youtube.com^
+||googlevideo.com^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
 @@||youtube.com^|
+@@||googlevideo.com^
