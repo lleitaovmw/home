@@ -9,4 +9,4 @@
 !
 ||youtube.com^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
-@@||action.metaffiliation.com^|
+@@||youtube.com^|
